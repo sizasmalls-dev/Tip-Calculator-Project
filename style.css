@@ -1,7 +1,7 @@
 
 
 body {
-    background: #333 url(./Resources/Images/white-and-red-house-surrounded-by-trees-at-night-1612351.jpg)center center no-repeat ;
+    background: #333 url(https://images.pexels.com/photos/1612351/pexels-photo-1612351.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)center center no-repeat ;
     background-size: cover; 
     /* color: ; */
 }
@@ -11,7 +11,7 @@ width: 400px;
 margin: 40px auto 0 ;
 padding: 50px;
 box-sizing: border-box;
-background: url(./Resources/Images/images.jpeg);
+background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSewsAb8jxeUXdK0wguLx6L3Hb0uJ3YneRTfwJOdnWfsEjuivv_SA&s);
 box-shadow:0 10px 20px -8px #000 ;
 -webkit-border-radius: 5px;
 -moz-border-radius: 5px;
